@@ -1,0 +1,29 @@
+body{
+    width: 100%;
+    margin: 10px auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 48;
+}
+h2{
+    font-size: 32px;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+.img-home{
+    border-radius: 100%;
+    width: 30%;
+}
+
+
+ul li a{
+    display: block;
+    text-decoration: none;
+}
