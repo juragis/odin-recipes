@@ -12,10 +12,10 @@ padding: 0;
 
 .h1-homepage{
     text-align: center;
-    font-size: 48px;
+    font-size: 40px;
 }
 .h2-homepage{
-    font-size: 32px;
+    font-size: 30px;
 }
 
 .ul-home{
@@ -26,7 +26,7 @@ padding: 0;
 
 .img-home{
     border-radius: 100%;
-    width: 85%;
+    width: 80%;
     
 }
 
