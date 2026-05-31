@@ -1,18 +1,24 @@
-body{
+html{
     width: 100vw;
     height: auto;
-    margin: 10px auto;
+    margin: 0;
 }
 
-h1{
-    text-align: center;
-    font-size: 48;
+body{
+
+margin: 0;
+padding: 0;
 }
-h2{
+
+.h1-homepage{
+    text-align: center;
+    font-size: 48px;
+}
+.h2-homepage{
     font-size: 32px;
 }
 
-ul{
+.ul-home{
     list-style-type: none;
     text-align: center;
     padding: 0;
@@ -21,6 +27,11 @@ ul{
 .img-home{
     border-radius: 100%;
     width: 85%;
+    
+}
+
+.img-recipe{
+    width: 100%;
 }
 
 
